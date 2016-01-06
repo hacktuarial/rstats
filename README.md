@@ -1,0 +1,2 @@
+# rstats
+Miscellaneous stats functions
